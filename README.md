@@ -16,5 +16,5 @@ import cryptocode as cry            "cryptocode"
 
 tkinter is a library already included in python. so there is no need to download extra.
 
-pip install Pillow
+pip install Pillow ,
 pip install cryptocode
